@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lameck255
+- 👋 Hi, I’m @kiyogoma
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate on how we can Make software grow faster 
